@@ -4,7 +4,7 @@
 #
 Name     : dmxproto
 Version  : 2.3.1
-Release  : 10
+Release  : 11
 URL      : http://xorg.freedesktop.org/releases/individual/proto/dmxproto-2.3.1.tar.bz2
 Source0  : http://xorg.freedesktop.org/releases/individual/proto/dmxproto-2.3.1.tar.bz2
 Summary  : DMX extension headers
